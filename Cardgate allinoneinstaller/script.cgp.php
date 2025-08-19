@@ -102,7 +102,6 @@ if (!defined ('_CGP_SCRIPT_INCLUDED')) {
 			$this->installPlugin ('CardGatePlus Credit Card', 'plugin', 'cgpcreditcard', 'vmpayment');
 			$this->installPlugin ('CardGatePlus iDEAL', 'plugin', 'cgpideal', 'vmpayment');
 			$this->installPlugin ('CardGatePlus iDEAL QR', 'plugin', 'cgpidealqr', 'vmpayment');
-			$this->installPlugin ('CardGatePlus Mister Cash', 'plugin', 'cgpmistercash', 'vmpayment');
 			$this->installPlugin ('CardGatePlus OnlineÜberweisen', 'plugin', 'cgponlineueberweisen', 'vmpayment');
 			$this->installPlugin ('CardGatePlus PayPal', 'plugin', 'cgppaypal', 'vmpayment');
 			$this->installPlugin ('CardGatePlus Paysafecard', 'plugin', 'cgppaysafecard', 'vmpayment');
